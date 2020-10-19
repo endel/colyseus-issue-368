@@ -1,6 +1,6 @@
 # Trying to reproduce https://github.com/colyseus/colyseus/issues/368
 
-This repo is using Colyseus 0.14 to try to reproduce [issue #36](https://github.com/colyseus/colyseus/issues/368)
+This repo is using Colyseus 0.14 to try to reproduce [issue #368](https://github.com/colyseus/colyseus/issues/368)
 
 ## How to run
 
